@@ -8,14 +8,6 @@
       "last_seen": "2024-01-15 12:00:00",
       "height": 1,
       "status": "online"
-    },
-    {
-      "address": "0.0.0.0:8333",
-      "country": "IT",
-      "version": "2.0",
-      "last_seen": "2025-10-19 22:15:20",
-      "height": 1,
-      "status": "online"
     }
   ]
 }
