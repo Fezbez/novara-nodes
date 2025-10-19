@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-19 22:22:03",
+  "last_updated": "2025-10-19 22:26:09",
   "nodes": [
     {
       "address": "127.0.0.1:8333",
@@ -13,7 +13,7 @@
       "address": "192.168.1.252:8333",
       "country": "IT",
       "version": "2.0",
-      "last_seen": "2025-10-19 22:22:03",
+      "last_seen": "2025-10-19 22:26:09",
       "height": 1,
       "status": "online"
     }
