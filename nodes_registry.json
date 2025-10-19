@@ -8,14 +8,6 @@
       "last_seen": "2024-01-15 12:00:00",
       "height": 1,
       "status": "online"
-    },
-    {
-      "address": "192.168.1.252:8333",
-      "country": "IT",
-      "version": "1.0",
-      "last_seen": "2025-10-19 21:44:10",
-      "height": 1,
-      "status": "online"
     }
   ]
 }
