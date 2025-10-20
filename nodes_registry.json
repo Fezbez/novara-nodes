@@ -1,12 +1,11 @@
-
 {
-  "last_updated": "2024-01-15 12:00:00",
+  "last_updated": "2025-10-20 17:58:22",
   "nodes": [
     {
       "address": "127.0.0.1:8333",
-      "country": "LOCAL",
-      "version": "1.0",
-      "last_seen": "2024-01-15 12:00:00",
+      "country": "IT",
+      "version": "2.0",
+      "last_seen": "2025-10-20 17:58:22",
       "height": 1,
       "status": "online"
     }
